@@ -18,9 +18,16 @@
     display: none;
     right: 45px;
     bottom: 45px;
-    z-index: 99;
+    /* z-index: 99; */
 }
 
+.whatsaap{
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 45px;
+    z-index: 99;
+}
 
 /*** Spinner ***/
 #spinner {
@@ -150,7 +157,7 @@
 
 .booking {
     position: relative;
-    margin-top: -100px !important;
+    /* margin-top: -100px !important; */
     z-index: 1;
 }
 
